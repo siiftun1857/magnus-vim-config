@@ -1,0 +1,1 @@
+/home/magnussiiftun1857/workspace/magsii_vim_config.vim
